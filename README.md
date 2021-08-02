@@ -1,4 +1,4 @@
-test
-====
+Sample Python Repository
+========================
 
-Test repo
+Example repository with dependabot pull requests
